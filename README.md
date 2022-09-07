@@ -2,7 +2,7 @@
 
 #### Hi hi everyone! I'm back at it again, this time with a sick set of bash scripts for managing one of the most popular / awesome repos of Stable Diffusion, [SD-WebUI](https://github.com/sd-webui/stable-diffusion-webui)! 
 
-####(SD-WebUI was formerly known as HLKY.)
+#### (SD-WebUI was formerly known as HLKY.)
 
 #### I created this suite of bash scripts to assist people in getting SD-WebUI installed on the Runpod cloud a single web terminal command, and additional scripts to assist with easy management of SD-WebUI post-installation.
 
