@@ -1,12 +1,16 @@
 # <h1 align="center">📔 Arkitecc's Stable Diffusion WebUI Bash Suite 📔</h1>
 
-Hi hi everyone! I'm back at it again, this time with a sick set of bash scripts for managing one of the most popular / awesome repos of Stable Diffusion, SD-Webui! (Formerly known as HLKY)
+#### Hi hi everyone! I'm back at it again, this time with a sick set of bash scripts for managing one of the most popular / awesome repos of Stable Diffusion, [SD-WebUI](https://github.com/sd-webui/stable-diffusion-webui)! 
 
-I created this suite of bash scripts to assist people in getting SD-WebUI installed on the Runpod cloud a single web terminal command, and additional scripts to assist with easy management of SD-WebUI post-installation.
+####(SD-WebUI was formerly known as HLKY.)
 
-If you'd like to support me and my work, please consider signing up for Runpod using this link:  it includes my template which will automatically have these scripts included on your Linux pod on boot. 
+#### I created this suite of bash scripts to assist people in getting SD-WebUI installed on the Runpod cloud a single web terminal command, and additional scripts to assist with easy management of SD-WebUI post-installation.
 
-### IMPORTANT: Each script will require you to enter 'chmod +x scriptname.sh && bash scriptname.sh' (without apostrophes) into the web console the first time that you use them. This gives Linux the proper permission to run my scripts before executing the scripts for the first time. Afterward, you can run them simply with 'bash scriptname.sh'.
+#### If you'd like to support me and my work, please consider signing up for Runpod using this link:  it includes my template which will automatically have these scripts included on your Linux pod on boot. 
+
+#### IMPORTANT: Each script will require you to enter 'chmod +x scriptname.sh && bash scriptname.sh' (without apostrophes) into the web console the first time that you use them. 
+
+#### This gives Linux the proper permission to run my scripts before executing the scripts for the first time. Afterward, you can run them simply with 'bash scriptname.sh'.
 
 ## Scripts Included: 
 
@@ -41,4 +45,4 @@ If you'd like to support me and my work, please consider signing up for Runpod u
 
 #### Initialize it with 'chmod +x Arki-SD-U.sh && bash Arki-SD-U.sh'. 
 
-## Shout out to [Joe Penna](https://twitter.com/MysteryGuitarM) for the initial inspiration for these scripts and teaching me a bit about bash! 
+### Shout out to [Joe Penna](https://twitter.com/MysteryGuitarM) for the initial inspiration and teaching me a bit about Bash!
