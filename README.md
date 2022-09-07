@@ -29,7 +29,7 @@
 
 ## 📔 Arki-SD-R.sh 
 
-#### After installing and running for thee first time, you won't need to run the install script again. Instead, run this script to get started the next time you need to start up SD-WebUI.
+#### After installing and running for the first time, you won't need to run the install script again. Instead, run this script to get started the next time you need to start up SD-WebUI.
 
 #### Initialize it with 'chmod +x Arki-SD-R.sh && bash Arki-SD-R.sh'.
 
