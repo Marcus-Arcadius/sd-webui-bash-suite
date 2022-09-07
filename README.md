@@ -26,4 +26,4 @@ If you'd like to support me and my work, please consider signing up for Runpod u
 ## 📔 Arki-SD-U.sh - If you'd like to stay up to date, run this script to pull the latest changes from the SD-WebUI Github Repo, pass the -t argument with your run command in order to update an installation that has Textual Inversion support.
 ## Initialize it with 'chmod +x Arki-SD-U.sh && bash Arki-SD-U.sh'. 
 
-## Shout out to [Joe Penna](https://twitter.com/MysteryGuitarM) for the initial inspiration for these scripts and teaching me a bit about bash!
+## Shout out to [Joe Penna](https://twitter.com/MysteryGuitarM) for the initial inspiration for these scripts and teaching me a bit about bash! 
