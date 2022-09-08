@@ -4,6 +4,8 @@
 
 #### (SD-WebUI was formerly known as HLKY.)
 
+### I've added a complete walkthrough for how to set all of this up to my main installation guide over at 📔[Stable Diffusion Local Install Guide](https://docs.google.com/document/d/1owAMJGe56sbocCdrv7IO8fM6I4NLqxZ2bJgfI7EsYAw/edit#heading=h.lol8qgvyhlg2)📔!
+
 #### I created this suite of bash scripts to assist people in getting SD-WebUI installed on the Runpod cloud with a single web terminal command, and additional scripts to assist with easy management of SD-WebUI post-installation.
 
 #### If you'd like to support me and my work, please consider dropping by my [Ko-Fi](https://ko-fi.com/arkitecc) or signing up for Runpod using this link: [Arki's Easy SD-WebUI](https://runpod.io/gsc?template=2zlpsxev91&ref=borq1onw)  it includes my template which will automatically have these scripts included on your Linux pod on boot.
