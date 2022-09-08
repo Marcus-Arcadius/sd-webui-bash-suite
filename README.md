@@ -25,7 +25,7 @@
 
 ## 📔 ArkiSD-I.sh
 
-#### The big boi. With a single line entered into the web console this bad boi will do literally everything for you, including giving you a link at the end that will allow you to use SD-WebUI's frontend from your local pc. 
+#### The big boi. With a single line entered into the web console this bad boi will do literally everything for you, including giving you a link at the end that will allow you to use SD-WebUI's frontend from your local pc. Keep the tab with this web terminal open while you're using or running your pod for the first time. Duplicate the tab if you'd like to run the other scripts as I've detailed them below.
 
 #### Initialize it with 'chmod +x ArkiSD-I.sh && bash ArkiSD-I.sh'. It'll ask you for a direct link to your model file, I recommend using Dropbox for this. 
 
