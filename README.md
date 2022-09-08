@@ -1,10 +1,10 @@
 # <h1 align="center">📔 Arkitecc's Stable Diffusion WebUI Bash Suite 📔</h1>
 
+### I've added a complete walkthrough for how to set all of this up to my main installation guide over at 📔[Stable Diffusion Local Install Guide](https://docs.google.com/document/d/1owAMJGe56sbocCdrv7IO8fM6I4NLqxZ2bJgfI7EsYAw/edit#heading=h.lol8qgvyhlg2)📔!
+
 #### Hi hi everyone! I'm back at it again, this time with a sick set of bash scripts for managing one of the most popular / awesome repos of Stable Diffusion, [SD-WebUI](https://github.com/sd-webui/stable-diffusion-webui)! 
 
 #### (SD-WebUI was formerly known as HLKY.)
-
-### I've added a complete walkthrough for how to set all of this up to my main installation guide over at 📔[Stable Diffusion Local Install Guide](https://docs.google.com/document/d/1owAMJGe56sbocCdrv7IO8fM6I4NLqxZ2bJgfI7EsYAw/edit#heading=h.lol8qgvyhlg2)📔!
 
 #### I created this suite of bash scripts to assist people in getting SD-WebUI installed on the Runpod cloud with a single web terminal command, and additional scripts to assist with easy management of SD-WebUI post-installation.
 
