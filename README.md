@@ -54,4 +54,4 @@
 
 ### Shout out to [Joe Penna](https://twitter.com/MysteryGuitarM) for the initial inspiration and teaching me a bit about Bash!
 
-### Shout out to [@altryne](https://github.com/altryne) and [@hlky](https://github.com/hlky) for their awesome work on SD-WebUI, please go support them by following their linked names! 
+### Shout out to [Altryne](https://github.com/altryne) and [HLKY](https://github.com/hlky) for their awesome work on SD-WebUI, please go support them by following their linked names! 
