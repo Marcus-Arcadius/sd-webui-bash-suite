@@ -10,7 +10,10 @@
 
 #### IMPORTANT: Each script will require you to enter 'chmod +x scriptname.sh && bash scriptname.sh' (without apostrophes) into the web console the first time that you use them.
 
-#### If you need to get into the desktop environment to set up cloud storage for your images, or to debug anything, go into your Connect settings on Runpod and plug in the IP address, a colon, and then the external port number into your browser. When prompted use the S/N "user" with Password "stablediff" (unless you've changed it in the template settings). I recommend backing up the whole /stable-diffusion-webui/outputs/ folder to be sure you have all of your art. Guide video coming soon about how to set-up automatic art backups for your pod.  
+#### If you need to get into the desktop environment to set up cloud storage for your images, or to debug anything, go into your Connect settings on Runpod and plug in the IP address, a colon, and then the external port number into your browser. 
+
+#### When prompted use the S/N "user" with Password "stablediff" (unless you've changed it in the template settings). 
+#### I recommend backing up the whole /stable-diffusion-webui/outputs/ folder to be sure you have all of your art. Guide video coming soon about how to set-up automatic art backups for your pod.  
 
 #### This gives Linux the proper permission to run my scripts before executing the scripts for the first time. Afterward, you can run them simply with 'bash scriptname.sh'.
 
