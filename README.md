@@ -12,7 +12,7 @@
 
 #### As far as I'm aware, this is the most complete edition of SD-WebUI available right now, as I include the commonly left out Latent Diffusion Super Resolution upscaler that SD-WebUI supports. 
 
-#### IMPORTANT: Each script will require you to enter 'chmod +x scriptname.sh && bash scriptname.sh' (without apostrophes) into the web console the first time that you use them.
+#### IMPORTANT: Each script will require you to enter 'chmod +x scriptname.sh && bash scriptname.sh' (without apostrophes) into the web console the first time that you use them. CTRL + SHIFT + V is how you paste into the web console. 
 
 #### This gives Linux the proper permission to run my scripts before executing the scripts for the first time. Afterward, you can run them simply with 'bash scriptname.sh'.
 
@@ -42,7 +42,7 @@
 
 ## 📔 ArkiSD-R.sh 
 
-#### After installing and running for the first time, you won't need to run the install script again. Instead, run this script to get started the next time you need to start up SD-WebUI.
+#### After installing and running for the first time, you won't need to run the install script again. Instead, run this script to get started the next time you need to start up SD-WebUI. If your interface ever stops working for you, press CTRL-C inside of the console and initialize this script again. 
 
 #### Initialize it with 'chmod +x ArkiSD-R.sh && bash ArkiSD-R.sh'.
 
