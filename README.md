@@ -14,7 +14,7 @@
 
 #### This gives Linux the proper permission to run my scripts before executing the scripts for the first time. Afterward, you can run them simply with 'bash scriptname.sh'.
 
-#### If you need to get into the desktop environment to set up cloud storage for your images, or to debug anything, go into your Connect settings on Runpod and plug in the IP address, a colon, and then the external port number into your browser. 
+#### If you need to get into the desktop environment to set up cloud storage for your images, or to debug anything, go into your Connect settings on Runpod _(all pods except A100 due to lack of display support)_ and plug in the IP address, a colon, and then the external port number into your browser. 
 
 #### When prompted use the S/N "user" with Password "stablediff" (unless you've changed it in the template settings).
 
