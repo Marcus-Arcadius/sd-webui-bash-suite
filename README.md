@@ -20,6 +20,7 @@
 
 #### I recommend backing up the whole /stable-diffusion-webui/outputs/ folder to be sure you have all of your art. Dragging and dropping this folder into a cloud storage provider to update it after each session is recommended. Guide on how to set up Google Drive automatic art backups can be found [here.](https://docs.google.com/document/d/1wXrFKPq5wi4fK7y7Ww7ALf2yj1cVmJLbROO0b_u6y9A/edit)
 
+#### Note: My scripts pull live from the latest repository updates on Github, there may occasionally be breaking changes, I’ll try to occasionally check for these and update the scripts / template where I have the ability to.  
 
 ## Scripts Included: 
 
