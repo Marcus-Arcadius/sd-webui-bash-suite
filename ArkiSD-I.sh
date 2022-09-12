@@ -7,7 +7,7 @@ echo "IMPORTANT: If this is the first time you're running these scripts, each sc
 echo "Run the ArkiSD-IT.sh script afterward to install support for Textual Inversion embeddings."
 echo "Run the ArkiSD-U.sh script to pull the latest changes from the SD-WebUI repo." 
 echo "Run the ArkiSD-U.sh script with -t to pull changes if you've installed Textual Inversion."
-echo "Run the ArkiSD-R.sh (default mode) or ArkiHLKY-RT.sh (Textual Inversion Mode) scripts if you need to launch SD-WebUI in the future."
+echo "Run the ArkiSD-R.sh (default mode) or ArkiSD-RT.sh (Textual Inversion Mode) scripts if you need to launch SD-WebUI in the future."
 echo " "
 echo "CTRL+SHIFT+V to paste in direct download link to model.ckpt (I personally use Dropbox to host mine):"
 
