@@ -3,7 +3,7 @@ clear
 
 echo "SD-WebUI Automatic Run Updater by Arkitecc#0339 @ https://ko-fi.com/arkitecc"
 echo "Run script with -t in order to update if you installed SD-WebUI's Textual Inversion Compatability Mode."
-
+ 
 echo " "
 
 if [ $# -eq 0 ]

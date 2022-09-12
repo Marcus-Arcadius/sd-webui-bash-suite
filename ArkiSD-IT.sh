@@ -1,7 +1,7 @@
 #!/bin/bash
 pkill python
 clear
-
+ 
 echo "SD-WebUI Automatic Installation by Arkitecc#0339 @ https://ko-fi.com/arkitecc"
 echo " "
 
