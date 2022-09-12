@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-
+ 
 echo "SD-WebUI Automatic Installation by Arkitecc#0339 @ https://ko-fi.com/arkitecc"
 # but, like, Joe helped.
 echo "IMPORTANT: If this is the first time you're running these scripts, each script will require you to enter 'chmod +x scriptname.sh && bash scriptname.sh' to give Linux the proper permissions to execute the scripts for the first time. Afterward, you can run them simply with 'bash scriptname.sh'"
