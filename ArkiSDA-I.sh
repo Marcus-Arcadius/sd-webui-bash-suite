@@ -42,6 +42,7 @@ conda env create -f environment-wsl2.yaml
 conda activate automatic
 mkdir embeddings
 mkdir repositories
+mkdir models
 git clone https://github.com/CompVis/stable-diffusion.git repositories/stable-diffusion
 git clone https://github.com/CompVis/taming-transformers.git repositories/taming-transformers
 git clone https://github.com/sczhou/CodeFormer.git repositories/CodeFormer
@@ -54,7 +55,7 @@ pip3 install -r requirements.txt
 
 
 wget https://github.com/TencentARC/GFPGAN/releases/download/v1.3.0/GFPGANv1.3.pth
-cd /home/user/stable-diffusion-webui/
+cd /home/user/stable-diffusion-webui/models/
 
 curl -LO $CHECKPOINT
 
