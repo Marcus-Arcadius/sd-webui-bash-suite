@@ -59,6 +59,8 @@ cd /home/user/stable-diffusion-webui/models/
 
 curl -LO $CHECKPOINT
 
+cd /home/user/stable-diffusion-webui/
+
 clear
 echo "Installing Local Tunnel..."
 
